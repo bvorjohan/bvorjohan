@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I am currently working at [Appian](https://www.appian.com) by day and [By The People](bythepeople.co) by night.
+
 <!--
 **bvorjohan/bvorjohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
