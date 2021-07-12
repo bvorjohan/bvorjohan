@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer  currently working at [Appian](https://www.appian.com) by day and [By The People](bythepeople.co) by night.
+I am a software engineer currently working at [AWS](https://aws.amazon.com).
 
 <!--
 **bvorjohan/bvorjohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
